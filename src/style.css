@@ -14,7 +14,7 @@ body {
   height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url(./dist/img/music.jpg);
+  background-image: url(/dist/img/music.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
